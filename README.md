@@ -1,5 +1,5 @@
 ### Lease Protocol
-Lease Protocol是一个点对点去中心化的租赁协议，不需要任何一方信任.
+Lease Protocol是一个点对点去中心化的租赁协议，不需要任何一方信任完成点对点租赁.
 
 出租方通过Lease Contract编写出租委托(ERC20/721/1155)，再由Leasse Contract制作订单广播到0x Mesh网络中上架到多家交易所。
 
