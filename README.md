@@ -22,8 +22,7 @@ When the lessee returns the assets, then Protocol does the following:
 2. Transfer the rent to the lessor.
 3. The DAO and lessee get the reward from earn interest.
 
-
-### bout roles in Protocol
+### About roles in Protocol
 #### Lessor
 The lessor provides the assets for the lessee and earns rent.
 
