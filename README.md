@@ -1,9 +1,10 @@
 
-### Lease Protocol
+## Lease Protocol
 
 > Just a few thoughts, it's not final.
-![0748201fdd3b2395a3ec50ed8d50604a.png](evernotecid://CDF55C33-7238-4535-B5BE-A1BF22D80B66/appyinxiangcom/17153978/ENResource/p473)
-![6519a2332dcb7bec8f8fdc99699ab42e.png](evernotecid://CDF55C33-7238-4535-B5BE-A1BF22D80B66/appyinxiangcom/17153978/ENResource/p472)
+
+![Borrow.png](./borrow-assets.jpg)
+![Return.png](./return-assets.jpg)
 
 Lease Protocol is an open protocol that enables the peer-to-peer lease of assets on the Ethereum blockchain.
 
@@ -21,28 +22,28 @@ When the lessee returns the assets, then Protocol does the following:
 3. The DAO and lessee get the reward from earn interest.
 
 
-#### bout roles in Protocol
-##### Lessor
+### bout roles in Protocol
+#### Lessor
 The lessor provides the assets for the lessee and earns rent.
 
-##### Lessee
+#### Lessee
 The lessee borrows the assets from the lessor and pays the rent to the lessor. 
 
-##### DEFI/Bank
+#### DEFI/Bank
 The Protocol can earn additional interest at the bank of Compound/MakerDAO.
 
-##### Asset Market
+#### Asset Market
 The user can exchange the asset to another asset; for example, SpiderDEX/Opensea can sell the ERC721 of lease contract that helps the user to reduce risk.
 
-#### Extra Ideas
+### Extra Ideas
 1. Peer-To-Peer Lease => ERC721 Contract => Contract Loan => Insurance
 2. Peer-To-Peer Lease => ERC721 Contract => Earn Real-Time-Rent
 
-##### Loan
+#### Loan
 The lease contract consists of cash deposit and rents as security so that the third party can provide the service of loan because the rent can be calculated and get in the expected period
 
-##### Insurance
+#### Insurance
 The loan may default, and the lease contract isn't completed. However, the insurance can provide the currency immediately that waits for the lease contract to be finished or liquidated. 
 
-##### Earn Rent 
+#### Earn Rent 
 They can earn fees from the lessor wants to get money of rent every second/minute/hour that provides service that waits for the finished of the lease contract.
