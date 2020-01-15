@@ -3,7 +3,8 @@
 
 Lease Protocol是一个点对点的租赁协议，通过以太坊智能合约保证其公平性
 
-![流程图](./flow-chart.png)
+![Borrow.png](./borrow-assets.jpg)
+![Return.png](./return-assets.jpg)
 
 出租方通过Lease智能合约编写委托出租资产(ERC20/721/1155)，再由Leasse智能合约制作订单广播到0x Mesh网络中上架到多家交易所
 
