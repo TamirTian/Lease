@@ -3,6 +3,8 @@
 
 Lease Protocol是一个点对点的租赁协议，通过以太坊智能合约保证其公平性
 
+[Gitcoin](https://gitcoin.co/grants/353/lease)
+
 ![Borrow.png](./images/borrow-assets.jpg)
 ![Return.png](./images/return-assets.jpg)
 
