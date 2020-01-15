@@ -5,8 +5,8 @@
 
 Lease Protocol is an open protocol that enables the peer-to-peer lease of assets on the Ethereum blockchain.
 
-![Borrow.png](./borrow-assets.jpg)
-![Return.png](./return-assets.jpg)
+![Borrow.png](./images/borrow-assets.jpg)
+![Return.png](./images/return-assets.jpg)
 
 
 The lessor provides the liquidity of lease assets for the Protocol and broadcasts an order to the Mesh Network of 0x that easy put on multiple DEXs.
