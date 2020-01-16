@@ -3,6 +3,9 @@
 
 > Just a few thoughts, it's not final.
 
+* [English](./README.md)
+* [中文](./README-zh.md)
+
 Lease Protocol is an open protocol that enables the peer-to-peer lease of assets on the Ethereum blockchain.
 
 [Gitcoin](https://gitcoin.co/grants/353/lease)
