@@ -3,10 +3,9 @@
 
 * [English](./README.md)
 * [中文](./README-zh.md)
+* [Support our of Gitcoin](https://gitcoin.co/grants/353/lease)
 
 Lease Protocol是一个点对点的租赁协议，通过以太坊智能合约保证其公平性
-
-[Gitcoin](https://gitcoin.co/grants/353/lease)
 
 ![Borrow.png](./images/出租.jpg)
 ![Return.png](./images/归还.jpg)
